@@ -1,0 +1,10 @@
+echo "Welcome Greeting"
+
+echo "Welcome Fahad Khan"
+
+ls -laSh
+
+git log --oneline
+
+
+echo "Ended..."
