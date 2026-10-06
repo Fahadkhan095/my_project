@@ -4,4 +4,7 @@ echo "Welcome Fahad Khan"
 
 ls -laSh
 
-echo "End..."
+git log --oneline
+
+
+echo "Ended..."
