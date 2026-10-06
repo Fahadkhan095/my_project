@@ -1,0 +1,7 @@
+echo "Welcome Greeting"
+
+echo "Welcome Fahad Khan"
+
+ls -laSh
+
+echo "End..."
