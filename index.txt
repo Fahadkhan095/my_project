@@ -1,7 +1,8 @@
-echo "Welcome Greeting"
+echo "Greeting Message"
 
 echo "Welcome Fahad Khan"
 
 ls -laSh
+
 
 echo "End..."
