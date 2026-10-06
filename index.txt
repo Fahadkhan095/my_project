@@ -1,9 +1,0 @@
-echo "Print greeting message"
-echo "Hello Fahad"
-
-#list all files
-echo "print all files"
-
-ls -la
-
-echo "End"
